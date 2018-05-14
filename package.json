@@ -1,0 +1,27 @@
+{
+  "name": "reversi2",
+  "version": "1.0.0",
+  "description": "this is reversi2",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thelinc16/reversi2.git"
+  },
+  "keywords": [
+    "reversi"
+  ],
+  "author": "calvin",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/thelinc16/reversi2/issues"
+  },
+  "homepage": "https://github.com/thelinc16/reversi2#readme",
+  "dependencies": {
+    "node-static": "^0.7.10",
+    "socket.io": "^2.1.0"
+  }
+}
